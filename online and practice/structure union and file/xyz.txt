@@ -1,0 +1,5 @@
+A paragraph (from the Ancient Greek pa????af?? paragraphos, "to write beside" or "written beside") is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences.[1] Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.
+
+What do you mean by a 2 decimal array. Is your question, how is a double precision floating point array initialized in C? ( If it is, please change your question)
+
+Assuming that it is the question, a double array is initialized the same way any other array is: pass on the values to be passed with an assignment operator, bounded by braces and individual values separated by commas. There are two methods to initialization :
